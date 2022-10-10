@@ -1,0 +1,29 @@
+C:\Users\SenSen\AppData\Local\Temporary Projects\Peacock CGA\bin\Debug\Peacock CGA.exe
+C:\Users\SenSen\AppData\Local\Temporary Projects\Peacock CGA\bin\Debug\Peacock CGA.pdb
+C:\Users\SenSen\AppData\Local\Temporary Projects\Peacock CGA\bin\Debug\Peacock CGA.xml
+C:\Users\SenSen\AppData\Local\Temporary Projects\Peacock CGA\obj\x86\Debug\Peacock_CGA.Form1.resources
+C:\Users\SenSen\AppData\Local\Temporary Projects\Peacock CGA\obj\x86\Debug\Peacock_CGA.Resources.resources
+C:\Users\SenSen\AppData\Local\Temporary Projects\Peacock CGA\obj\x86\Debug\Peacock CGA.vbproj.GenerateResource.Cache
+C:\Users\SenSen\AppData\Local\Temporary Projects\Peacock CGA\obj\x86\Debug\Peacock CGA.exe
+C:\Users\SenSen\AppData\Local\Temporary Projects\Peacock CGA\obj\x86\Debug\Peacock CGA.xml
+C:\Users\SenSen\AppData\Local\Temporary Projects\Peacock CGA\obj\x86\Debug\Peacock CGA.pdb
+C:\Users\SenSen\documents\visual studio 2010\Projects\Peacock CGA\Peacock CGA\obj\x86\Debug\Peacock CGA.exe
+C:\Users\SenSen\documents\visual studio 2010\Projects\Peacock CGA\Peacock CGA\obj\x86\Debug\Peacock CGA.xml
+C:\Users\SenSen\documents\visual studio 2010\Projects\Peacock CGA\Peacock CGA\obj\x86\Debug\Peacock CGA.pdb
+C:\Users\SenSen\documents\visual studio 2010\Projects\Peacock CGA\Peacock CGA\bin\Debug\Peacock CGA.exe
+C:\Users\SenSen\documents\visual studio 2010\Projects\Peacock CGA\Peacock CGA\bin\Debug\Peacock CGA.pdb
+C:\Users\SenSen\documents\visual studio 2010\Projects\Peacock CGA\Peacock CGA\bin\Debug\Peacock CGA.xml
+C:\Users\SenSen\documents\visual studio 2010\Projects\Peacock CGA\Peacock CGA\obj\x86\Debug\Peacock_CGA.Form1.resources
+C:\Users\SenSen\documents\visual studio 2010\Projects\Peacock CGA\Peacock CGA\obj\x86\Debug\Peacock_CGA.Resources.resources
+C:\Users\SenSen\documents\visual studio 2010\Projects\Peacock CGA\Peacock CGA\obj\x86\Debug\Peacock CGA.vbproj.GenerateResource.Cache
+C:\Users\Raymond\Downloads\Peacock CGA 8\Peacock CGA\Peacock CGA\bin\Debug\Peacock CGA.exe
+C:\Users\Raymond\Downloads\Peacock CGA 8\Peacock CGA\Peacock CGA\bin\Debug\Peacock CGA.pdb
+C:\Users\Raymond\Downloads\Peacock CGA 8\Peacock CGA\Peacock CGA\bin\Debug\Peacock CGA.xml
+C:\Users\Raymond\Downloads\Peacock CGA 8\Peacock CGA\Peacock CGA\obj\x86\Debug\Peacock CGA.vbprojAssemblyReference.cache
+C:\Users\Raymond\Downloads\Peacock CGA 8\Peacock CGA\Peacock CGA\obj\x86\Debug\Peacock_CGA.Form1.resources
+C:\Users\Raymond\Downloads\Peacock CGA 8\Peacock CGA\Peacock CGA\obj\x86\Debug\Peacock_CGA.Resources.resources
+C:\Users\Raymond\Downloads\Peacock CGA 8\Peacock CGA\Peacock CGA\obj\x86\Debug\Peacock CGA.vbproj.GenerateResource.cache
+C:\Users\Raymond\Downloads\Peacock CGA 8\Peacock CGA\Peacock CGA\obj\x86\Debug\Peacock CGA.vbproj.CoreCompileInputs.cache
+C:\Users\Raymond\Downloads\Peacock CGA 8\Peacock CGA\Peacock CGA\obj\x86\Debug\Peacock CGA.exe
+C:\Users\Raymond\Downloads\Peacock CGA 8\Peacock CGA\Peacock CGA\obj\x86\Debug\Peacock CGA.xml
+C:\Users\Raymond\Downloads\Peacock CGA 8\Peacock CGA\Peacock CGA\obj\x86\Debug\Peacock CGA.pdb
